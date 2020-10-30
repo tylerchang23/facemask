@@ -16,10 +16,8 @@ I created a web application that can classify whether or not a person is wearing
 
 ***Note: It may take a few minutes for the app to launch, as Binder needs to "recreate" it if no one has used it recently.***
 
-<p align="center">
+## Sample output:
   
 ![alt text](https://github.com/tylerchang23/facemask/blob/main/md_screenshots/mask_output.png)
 
 ![alt text](https://github.com/tylerchang23/facemask/blob/main/md_screenshots/noMask_output.png)
-
-</p>
