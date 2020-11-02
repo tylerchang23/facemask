@@ -24,4 +24,4 @@ I created a web application that can classify whether or not a person is wearing
 
 You can view the code to my scraper [here!](https://nbviewer.jupyter.org/github/tylerchang23/facemask/blob/main/InstagramScraper.ipynb)
 
-You can view the code to building the model [here!] (https://nbviewer.jupyter.org/github/tylerchang23/facemask/blob/main/FaceMaskDetector.ipynb)
+You can view the code to building the model [here!](https://nbviewer.jupyter.org/github/tylerchang23/facemask/blob/main/FaceMaskDetector.ipynb)
